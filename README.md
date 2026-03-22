@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/maitran801/">Mai Tran</a>'s IT and Cybersecurity Project Portfolio
+# Mai Tran</a>'s IT and Cybersecurity Project Portfolio
 
 I don’t just study cybersecurity—I actively build and secure systems to understand how they truly work.
 
