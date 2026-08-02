@@ -14,7 +14,3 @@ Feel free to explore my projects and see how I approach building, breaking, and 
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/mtran0989/vulnerability-management-program-implementation)**
-
-## Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario](https://github.com/mtran0989/threat-hunt-event)**
